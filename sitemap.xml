@@ -1,46 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://surveypro.kz/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>https://surveypro.kz/index.kz.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://surveypro.kz/knowledge/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://surveypro.kz/knowledge/capi-chto-eto/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://surveypro.kz/knowledge/capi-cawi-cati/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://surveypro.kz/knowledge/sociologicheskiy-opros/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://surveypro.kz/knowledge/vyborka-oprosa/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-</urlset>
+<!-- Добавьте эти URL внутрь существующего <urlset> в sitemap.xml -->
+<url>
+  <loc>https://surveypro.kz/knowledge/</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://surveypro.kz/knowledge/capi-chto-eto/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://surveypro.kz/knowledge/capi-platforma-kazakhstan/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://surveypro.kz/knowledge/kontrol-capi-intervyuerov/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://surveypro.kz/knowledge/cawi-chto-eto/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://surveypro.kz/knowledge/capi-cawi-cati/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://surveypro.kz/knowledge/sociologicheskiy-opros/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://surveypro.kz/knowledge/vyborka-oprosa/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
